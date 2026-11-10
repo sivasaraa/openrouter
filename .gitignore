@@ -1,4 +1,7 @@
+#python
 .DS_Store
+__pycache__/
+*.pyc
 
 #Virtual Environment
 .venv
